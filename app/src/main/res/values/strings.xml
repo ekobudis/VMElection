@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VMElection</string>
+    <string name="title_activity_name">Election Dashboard</string>
+</resources>
