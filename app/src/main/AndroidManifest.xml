@@ -12,7 +12,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PilpresActivity"></activity>
+        <activity android:name=".TpsActivity"></activity>
+        <activity android:name=".PilpresActivity" />
         <activity android:name=".PilegActivity" />
         <activity android:name=".PetugasActivity" />
         <activity android:name=".PersonilActivity" />
