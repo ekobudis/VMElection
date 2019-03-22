@@ -6,7 +6,7 @@ import android.graphics.drawable.Drawable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.TextUtils;
-import android.transition.TransitionManager;
+//import android.transition.TransitionManager;
 import android.util.Log;
 import android.util.TypedValue;
 import android.view.Gravity;
@@ -127,7 +127,7 @@ public class LoginActivity extends AppCompatActivity {
 
     }
 
-    private void showLoading(){
+    /*private void showLoading(){
         TransitionManager.beginDelayedTransition(container);
         formContainer.setVisibility(View.GONE);
         loader.setVisibility(View.VISIBLE);
@@ -137,6 +137,6 @@ public class LoginActivity extends AppCompatActivity {
         TransitionManager.beginDelayedTransition(container);
         formContainer.setVisibility(View.VISIBLE);
         loader.setVisibility(View.GONE);
-    }
+    }*/
 
 }
