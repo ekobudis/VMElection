@@ -30,6 +30,7 @@
 
             <TextView
                 android:text="Nama App"
+                android:id="@+id/tv_personil"
                 android:layout_marginTop="20dp"
                 android:textColor="@android:color/white"
                 android:layout_width="wrap_content"
@@ -37,6 +38,7 @@
 
             <TextView
                 android:text="Ketereangan"
+                android:id="@+id/tv_jabatan"
                 android:layout_marginTop="5dp"
                 android:textColor="@android:color/white"
                 android:layout_width="wrap_content"
